@@ -1,0 +1,29 @@
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.main {
+    background-color: pink;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+.a {
+    background-color: red;
+    position: absolute;
+}
+
+.b {
+    background-color: green;
+}
+
+.c {
+    background-color: blue;
+}
+
+.d {
+    background-color: violet;
+}
