@@ -1,21 +1,21 @@
 .box {
     height: 150px;
-    width: 1280px;
-}
+    width: 1272px;
 
-.main {
-    width: 1280px;
-    background-color: darkgrey;
-    position: relative;
-    height: 200vh
 }
-
 .a {
     background-color: black;
     position: absolute;
     top: 0px;
     left: 0px;
 }
+
+.moviepictures{
+
+}    
+
+
+
 
 .b {
     background-color: green;
@@ -27,4 +27,24 @@
 
 .d {
     background-color: violet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.main {
+    width: 1280px;
+    background-color: darkgrey;
+    position: relative;
+    height: 200vh;
+    top: 0px;
+    left: 0px;
 }
