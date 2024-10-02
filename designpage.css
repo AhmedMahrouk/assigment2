@@ -1,27 +1,31 @@
 .box {
     height: 150px;
-    width: 1272px;
+    width: 1250px;
 
+}
+.moviepictures{
+    height: 660px;
+    width: 970px;  
 }
 .a {
     background-color: black;
     position: absolute;
     top: 0px;
     left: 0px;
+    height: 200vh;
 }
-
-.moviepictures{
-
-}    
 
 
 
 
 .b {
-    background-color: green;
+position: relative;
+height: 474px;
+width: 711px;
+background-image: url(https://th.bing.com/th/id/OIP.LsLiZogHBeZl6UUdSIAz6QHaLH?rs=1&pid=ImgDetMain);
 }
 
-.c {
+/* .c {
     background-color: blue;
 }
 
@@ -29,22 +33,26 @@
     background-color: violet;
 }
 
+ */ */
+
+/* 
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: pink;
+width: 500px;
+height: 500px; */
 
 
 
 
 
 
-
-
-
-
-
-.main {
+/* .main {
     width: 1280px;
     background-color: darkgrey;
     position: relative;
     height: 200vh;
     top: 0px;
     left: 0px;
-}
+} */
