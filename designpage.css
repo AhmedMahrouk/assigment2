@@ -1,58 +1,16 @@
-.box {
-    height: 150px;
-    width: 1250px;
-
-}
-.moviepictures{
-    height: 660px;
-    width: 970px;  
-}
-.a {
-    background-color: black;
-    position: absolute;
-    top: 0px;
-    left: 0px;
+body{
+    background-image: linear-gradient(black, black, #000060);
     height: 200vh;
 }
 
 
 
-
-.b {
-position: relative;
-height: 474px;
-width: 711px;
-background-image: url(https://th.bing.com/th/id/OIP.LsLiZogHBeZl6UUdSIAz6QHaLH?rs=1&pid=ImgDetMain);
+.a{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 1200px;
+    height: 700px;
+background-image: url(https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1djrRv.img?w=1400&h=700&m=4&q=79);
 }
-
-/* .c {
-    background-color: blue;
-}
-
-.d {
-    background-color: violet;
-}
-
- */ */
-
-/* 
-display: flex;
-justify-content: center;
-align-items: center;
-background-color: pink;
-width: 500px;
-height: 500px; */
-
-
-
-
-
-
-/* .main {
-    width: 1280px;
-    background-color: darkgrey;
-    position: relative;
-    height: 200vh;
-    top: 0px;
-    left: 0px;
-} */
